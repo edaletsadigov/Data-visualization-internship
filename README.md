@@ -60,6 +60,6 @@ Technology company specializing in cloud computing, blockchain, AI, and ML solut
 [www.saiket.in](https://www.saiket.in)
 
 ---
-
 ## 📜 Certificate
-https://github.com/edaletsadigov/Data-visualization-internship/blob/main/compelition%20certificate%20saiket%20systems.png?raw=true
+
+![SaiKet Systems Internship Certificate](https://github.com/edaletsadigov/Data-visualization-internship/blob/main/compelition%20certificate%20saiket%20systems.png?raw=true)
