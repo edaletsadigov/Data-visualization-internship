@@ -64,4 +64,4 @@ Technology company specializing in cloud computing, blockchain, AI, and ML solut
 ## 📜 Certificate
 ## 📜 Certificate
 
-![SaiKet Systems Internship Certificate](https://github.com/user-attachments/assets/ef460b0e-5071-4c54-b5d9-a7d1b9ea45d5)
+[![SaiKet Systems Internship Certificate](https://github.com/user-attachments/assets/ef460b0e-5071-4c54-b5d9-a7d1b9ea45d5)](https://github.com/edaletsadigov/Data-visualization-internship/blob/main/compelition%20certificate%20saiket%20systems.png?raw=true)
